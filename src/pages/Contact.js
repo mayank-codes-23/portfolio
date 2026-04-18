@@ -8,7 +8,7 @@ const Contact = () => {
         <p style={styles.info}>
           <strong>Email:</strong>{' '}
           <a href="mailto:your.email@example.com" style={styles.link}>
-            your.email@example.com
+            mayankmahadik7@gmail.com
           </a>
         </p>
         <p style={styles.info}>
